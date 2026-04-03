@@ -1,5 +1,5 @@
 <h1>
-  👋 Hi, I'm <a href="https://github.com/lxy0068"> Xingyan Liu (刘兴琰)</a>!
+  👋 Hi, I'm <a href="https://github.com/lxy0068"> Xingyan Liu </a>!
 </h1>
 
   <img align="right" src="https://github.com/user-attachments/assets/9f732bb2-8b8c-4bc7-bf82-c342e8209253" width="300" alt="work"/>
