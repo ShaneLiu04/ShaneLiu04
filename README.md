@@ -4,12 +4,9 @@
 
   <img align="right" src="https://github.com/user-attachments/assets/9f732bb2-8b8c-4bc7-bf82-c342e8209253" width="300" alt="work"/>
 
-### 🚀 I am a student majoring in <strong>AI</strong>.
+### 🚀 Fully committed to <strong>AI</strong>
 
 <ul>
-  <li>
-    🖥️ Explore My website: <a href="https://lxy0068.github.io/" target="_blank"><strong>lxy0068</strong></a>
-  </li>
   <li>
     📧 Contact me @: <a href="mailto:xingyan"><strong>xingyanliu10@gmail.com</strong></a>
   </li>
