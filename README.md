@@ -1,5 +1,5 @@
 <h1>
-  👋 Hi, I'm <a href="https://github.com/lxy0068"> Xingyan Liu </a>!
+  👋 Hi, I'm <a href="https://github.com/lxy0068">Shane </a>!
 </h1>
 
   <img align="right" src="https://github.com/user-attachments/assets/9f732bb2-8b8c-4bc7-bf82-c342e8209253" width="300" alt="work"/>
@@ -8,7 +8,7 @@
 
 <ul>
   <li>
-    📧 Contact me @: <a href="mailto:xingyan"><strong>xingyanliu10@gmail.com</strong></a>
+    📧 Contact me @: <a href="mailto:xingyan"><strong>franklinliu068@gmail.com</strong></a>
   </li>
   <li>
     🐱 I am interested in <strong>Systems</strong>
