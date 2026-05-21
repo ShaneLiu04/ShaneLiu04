@@ -1,6 +1,6 @@
 <!-- 极简动态标题 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=4000&pause=1500&color=64748B&center=true&vCenter=true&width=500&lines=Algorithm+%26+Engineering;Research+to+Robust+Systems" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=4000&pause=1500&color=64748B&center=true&vCenter=true&width=500&lines=Algorithm+%26+Engineering+Practice;Research+to+Robust+Systems" alt="typing" />
 </p>
 
 <br>
@@ -53,7 +53,7 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════
-     DYNAMICS & CAPABILITY SIGNATURES
+     COMPACT CAPABILITY DASHBOARD
      ═══════════════════════════════════════════════ -->
 
 <p align="center">
@@ -62,23 +62,18 @@
 
 <br>
 
-<!-- GitHub Stats + Streak Stats -->
+<!-- Stats + Streak 双卡片紧凑并排 -->
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShaneLiu04&show_icons=true&hide_border=true&title_color=334155&text_color=64748b&icon_color=475569&bg_color=f8fafc&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaneLiu04&hide_border=true&background=f8fafc&stroke=e2e8f0&ring=475569&fire=475569&currStreakNum=334155&sideNums=64748b&currStreakLabel=64748b&sideLabels=64748b" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=ShaneLiu04&show_icons=true&hide_border=true&title_color=334155&text_color=64748b&icon_color=475569&bg_color=f8fafc&include_all_commits=true&count_private=true" />
+  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaneLiu04&hide_border=true&background=f8fafc&stroke=e2e8f0&ring=475569&fire=475569&currStreakNum=334155&sideNums=64748b&currStreakLabel=64748b&sideLabels=64748b" />
 </p>
 
-<!-- GitHub Trophy -->
+<!-- Trophy 精简为 4 核心：Stars / Commits / Repos / Experience，单行展示 -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShaneLiu04&theme=flat&no-frame=true&column=7&margin-w=10&margin-h=10&title_color=334155" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShaneLiu04&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10&title=Stars,Commits,Repositories,Experience" />
 </p>
 
-<!-- Activity Graph: 工作强度曲线 -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaneLiu04&theme=minimal&hide_border=true&area=true&bg_color=f8fafc&color=64748b&line=475569&point=334155" />
-</p>
-
-<!-- Snake: 贪吃蛇贡献图 -->
+<!-- Snake 贡献动画 -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShaneLiu04/ShaneLiu04/output/github-contribution-grid-snake-dark.svg" />
