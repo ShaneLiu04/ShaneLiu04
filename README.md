@@ -1,6 +1,6 @@
 <!-- 极简动态标题 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=4000&pause=1500&color=64748B&center=true&vCenter=true&width=500&lines=Algorithm+%26+Engineering+Practice;Research+to+Robust+Systems;Model+Innovation+%C3%97+Full-Stack+Implementation" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=4000&pause=1500&color=64748B&center=true&vCenter=true&width=500&lines=Algorithm+%26+Engineering;Research+to+Robust+Systems" alt="typing" />
 </p>
 
 <br>
