@@ -64,7 +64,6 @@
 
 <!-- Stats + Streak 双卡片紧凑并排 -->
 <p align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=ShaneLiu04&show_icons=true&hide_border=true&title_color=334155&text_color=64748b&icon_color=475569&bg_color=f8fafc&include_all_commits=true&count_private=true" />
   <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaneLiu04&hide_border=true&background=f8fafc&stroke=e2e8f0&ring=475569&fire=475569&currStreakNum=334155&sideNums=64748b&currStreakLabel=64748b&sideLabels=64748b" />
 </p>
 
