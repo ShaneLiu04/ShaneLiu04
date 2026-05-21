@@ -1,6 +1,6 @@
 <!-- 极简动态标题 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=4000&pause=1500&color=64748B&center=true&vCenter=true&width=500&lines=Algorithm+%26+Engineering+Practice;Research+to+Robust+Systems" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=4000&pause=1500&color=64748B&center=true&vCenter=true&width=500&lines=Algorithm+%26+Engineering+Practice;Research+to+Robust+Systems;Model+Innovation+%C3%97+Full-Stack+Implementation" alt="typing" />
 </p>
 
 <br>
@@ -25,15 +25,15 @@
 
 > **精力分配决定层次。**
 >
-> 认知与能力遵循复利逻辑，每一次学习、实践与反思，都在前一次的基础上叠加生长，时间是最诚实的杠杆。
+> 我坚信认知与能力遵循复利逻辑，每一次学习、实践与反思，都在前一次的基础上叠加生长，时间是最诚实的杠杆。
 >
 > 我热衷于将复杂的现实挑战拆解为可执行的模块，用系统性推理厘清路径，以严格验证驱动闭环。
 >
-> 我以务实主义为锚点，以迭代进化为节奏，既保持足够的笃定去推进，也保持足够的从容去修正。
+> 我以务实主义为基本原则，采用迭代进化的方式，既能坚定推进，也能灵活修正。
 >
-> 我专注于可控变量的持续投入，理解行动与结果之间存在时滞与噪声，更在意过程的正确性。
+> 我专注于可控变量的持续投入，理解行动与结果之间存在延迟和干扰因素，因此更关注过程是否正确。
 >
-> 我尊重系统自身的复杂性与节律，将长期积累视为比单次结果更可靠的判断依据。
+> 我承认系统本身的复杂性与内在规律，认为长期积累比单次结果更值得信赖。
 >
 > 我在社会实践中成长迭代，追求无终点的持续精进。
 
@@ -64,7 +64,7 @@
 
 <!-- Stats + Streak 双卡片紧凑并排 -->
 <p align="center">
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaneLiu04&hide_border=true&background=f8fafc&stroke=e2e8f0&ring=475569&fire=475569&currStreakNum=334155&sideNums=64748b&currStreakLabel=64748b&sideLabels=64748b" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaneLiu04&hide_border=true&background=f8fafc&stroke=e2e8f0&ring=475569&fire=475569&currStreakNum=334155&sideNums=64748b&currStreakLabel=64748b&sideLabels=64748b" />
 </p>
 
 <!-- Trophy 精简为 4 核心：Stars / Commits / Repos / Experience，单行展示 -->
