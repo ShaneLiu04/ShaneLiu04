@@ -57,15 +57,10 @@
      ═══════════════════════════════════════════════ -->
 
 <p align="center">
-  <samp>Contribution Dynamics & Capability Signatures</samp>
+  <samp>Capability Signatures</samp>
 </p>
 
 <br>
-
-<!-- Stats + Streak 双卡片紧凑并排 -->
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaneLiu04&hide_border=true&background=f8fafc&stroke=e2e8f0&ring=475569&fire=475569&currStreakNum=334155&sideNums=64748b&currStreakLabel=64748b&sideLabels=64748b" />
-</p>
 
 <!-- Trophy 精简为 4 核心：Stars / Commits / Repos / Experience，单行展示 -->
 <p align="center">
