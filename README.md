@@ -56,17 +56,6 @@
      COMPACT CAPABILITY DASHBOARD
      ═══════════════════════════════════════════════ -->
 
-<p align="center">
-  <samp>Capability Signatures</samp>
-</p>
-
-<br>
-
-<!-- Trophy 精简为 4 核心：Stars / Commits / Repos / Experience，单行展示 -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShaneLiu04&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10&title=Stars,Commits,Repositories,Experience" />
-</p>
-
 <!-- Snake 贡献动画 -->
 <p align="center">
   <picture>
