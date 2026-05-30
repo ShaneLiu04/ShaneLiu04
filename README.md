@@ -41,16 +41,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e2e8f0,100:f1f5f9&height=1&width=600" />
 </p>
 
-<br>
-
-<!-- 能力签名 -->
-<p align="center">
-  <samp>
-    <b>Systems Thinking</b> · <b>Compound Growth</b> · <b>First-Principles Reasoning</b> · <b>Closed-Loop Validation</b>
-  </samp>
-</p>
-
-<br>
 
 <!-- ═══════════════════════════════════════════════
      COMPACT CAPABILITY DASHBOARD
