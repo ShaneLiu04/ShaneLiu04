@@ -3,13 +3,6 @@
      Inspired by https://github.com/dodolalorc/dodolalorc
      ═════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- Header Wave -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=ShaneLiu04&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=32" />
-</p>
-
-
 <!-- Dynamic Typing Title -->
 
 <p align="center">
@@ -222,24 +215,3 @@
   </picture>
 </p>
 <br>
-
-
-<!-- ═════════════════════════════════════════════════════════════════════════════
-     CONNECT
-     ═════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">Connect</h2>
-
-<p align="center">
-  <a href="https://github.com/ShaneLiu04">
-    <img src="https://img.shields.io/badge/GitHub-ShaneLiu04-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-
-<!-- Footer Wave -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" />
-</p>
-
