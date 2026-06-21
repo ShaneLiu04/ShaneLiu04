@@ -164,40 +164,6 @@
 </p>
 
 
-<br>
-
-<!-- ═════════════════════════════════════════════════════════════════════════════
-     PINNED PROJECTS
-     ═════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/ShaneLiu04/Finance-DeepSeek">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaneLiu04&repo=Finance-DeepSeek&theme=transparent&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0ea5e9&text_color=c9d1d9" alt="Finance-DeepSeek" />
-  </a>
-  <a href="https://github.com/ShaneLiu04/NeoAgent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaneLiu04&repo=NeoAgent&theme=transparent&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0ea5e9&text_color=c9d1d9" alt="NeoAgent" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/ShaneLiu04/Step-RL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaneLiu04&repo=Step-RL&theme=transparent&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0ea5e9&text_color=c9d1d9" alt="Step-RL" />
-  </a>
-  <a href="https://github.com/ShaneLiu04/HRF-MDVRP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaneLiu04&repo=HRF-MDVRP&theme=transparent&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0ea5e9&text_color=c9d1d9" alt="HRF-MDVRP" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/ShaneLiu04?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-0ea5e9?style=for-the-badge" />
-  </a>
-</p>
-
 
 <br>
 
