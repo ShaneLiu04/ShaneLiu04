@@ -136,16 +136,6 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/ShaneLiu04">
-    <img src="https://img.shields.io/badge/Public%20Repos-14-0ea5e9?style=flat-square&logo=github" />
-    <img src="https://img.shields.io/badge/Total%20Stars-165-fbbf24?style=flat-square&logo=github" />
-    <img src="https://img.shields.io/badge/Followers-36-10b981?style=flat-square&logo=github" />
-    <img src="https://img.shields.io/badge/Following-17-8b5cf6?style=flat-square&logo=github" />
-  </a>
-</p>
-
-
-<p align="center">
   <table width="100%">
     <tr>
       <td width="55%" align="center">
