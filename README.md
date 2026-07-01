@@ -130,6 +130,25 @@
 
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
+     STAR ACHIEVEMENTS
+     ═════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">Star Achievements</h2>
+
+<p align="center">
+  <sub>Achievement metrics generated via GitHub Actions · no third-party dependency</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShaneLiu04?tab=repositories" target="_blank">
+    <img width="85%" src="./assets/star-stats.svg" alt="GitHub Star Achievements" />
+  </a>
+</p>
+
+
+<br>
+
+<!-- ═════════════════════════════════════════════════════════════════════════════
      GITHUB STATS
      ═════════════════════════════════════════════════════════════════════════════ -->
 
