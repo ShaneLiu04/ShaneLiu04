@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="154" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="156" class="">
     <defs>
         <style/>
     </defs>
@@ -6,6 +6,7 @@
     <style>.items-wrapper {
  background: #0d1117 !important;
  border-radius: 12px !important;
+ border: 1px solid #30363d !important;
 }
 svg {
  color: #c9d1d9 !important;
