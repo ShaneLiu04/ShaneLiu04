@@ -21,7 +21,6 @@ jobs:
           template: classic
           base: activity, community, repositories
           config_timezone: Asia/Shanghai
-          config_theme: dark
           config_padding: 12
           extras_css: |
             .items-wrapper {
@@ -62,7 +61,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
           config_timezone: Asia/Shanghai
-          config_theme: dark
           config_padding: 12
           extras_css: |
             .items-wrapper {
