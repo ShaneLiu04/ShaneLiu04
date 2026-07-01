@@ -21,7 +21,29 @@ jobs:
           template: classic
           base: activity, community, repositories
           config_timezone: Asia/Shanghai
-          config_theme: github_dark
+          config_theme: dark
+          config_padding: 12
+          extras_css: |
+            .items-wrapper {
+              background: #0d1117 !important;
+              border-radius: 12px !important;
+            }
+            svg {
+              color: #c9d1d9 !important;
+            }
+            h2, h3 {
+              color: #38bdf8 !important;
+              font-weight: 600 !important;
+            }
+            h2 svg, h3 svg {
+              fill: #38bdf8 !important;
+            }
+            .field {
+              color: #c9d1d9 !important;
+            }
+            .field svg {
+              fill: #0ea5e9 !important;
+            }
           retries: 3
           retries_delay: 300
 
@@ -40,6 +62,31 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
           config_timezone: Asia/Shanghai
-          config_theme: github_dark
+          config_theme: dark
+          config_padding: 12
+          extras_css: |
+            .items-wrapper {
+              background: #0d1117 !important;
+              border-radius: 12px !important;
+            }
+            svg {
+              color: #c9d1d9 !important;
+            }
+            h2, h3 {
+              color: #38bdf8 !important;
+              font-weight: 600 !important;
+            }
+            h2 svg, h3 svg {
+              fill: #38bdf8 !important;
+            }
+            .field {
+              color: #c9d1d9 !important;
+            }
+            .field svg {
+              fill: #0ea5e9 !important;
+            }
+            .field.language.details small {
+              color: #8b949e !important;
+            }
           retries: 3
           retries_delay: 300

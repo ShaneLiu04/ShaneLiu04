@@ -136,16 +136,13 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <table width="100%">
-    <tr>
-      <td width="55%" align="center">
-        <img src="./assets/github-stats.svg" alt="GitHub Stats" />
-      </td>
-      <td width="45%" align="center">
-        <img src="./assets/top-langs.svg" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/ShaneLiu04" target="_blank">
+    <img width="49%" src="./assets/github-stats.svg" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ShaneLiu04" target="_blank">
+    <img width="49%" src="./assets/top-langs.svg" alt="Top Languages" />
+  </a>
 </p>
 
 
