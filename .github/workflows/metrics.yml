@@ -26,6 +26,7 @@ jobs:
             .items-wrapper {
               background: #0d1117 !important;
               border-radius: 12px !important;
+              border: 1px solid #30363d !important;
             }
             svg {
               color: #c9d1d9 !important;
@@ -66,6 +67,7 @@ jobs:
             .items-wrapper {
               background: #0d1117 !important;
               border-radius: 12px !important;
+              border: 1px solid #30363d !important;
             }
             svg {
               color: #c9d1d9 !important;
