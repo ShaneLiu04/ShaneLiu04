@@ -139,10 +139,10 @@
   <table width="100%">
     <tr>
       <td width="55%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ShaneLiu04&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0ea5e9&text_color=c9d1d9" alt="GitHub Stats" />
+        <img src="./assets/github-stats.svg" alt="GitHub Stats" />
       </td>
       <td width="45%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneLiu04&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+        <img src="./assets/top-langs.svg" alt="Top Languages" />
       </td>
     </tr>
   </table>

@@ -1,0 +1,45 @@
+name: Generate GitHub Metrics
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-stats:
+    name: Generate GitHub stats card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ShaneLiu04
+          filename: assets/github-stats.svg
+          template: classic
+          base: activity, community, repositories
+          config_timezone: Asia/Shanghai
+          config_theme: github_dark
+          retries: 3
+          retries_delay: 300
+
+  top-languages:
+    name: Generate top languages card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ShaneLiu04
+          filename: assets/top-langs.svg
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+          config_timezone: Asia/Shanghai
+          config_theme: github_dark
+          retries: 3
+          retries_delay: 300
