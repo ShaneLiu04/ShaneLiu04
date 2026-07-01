@@ -136,11 +136,18 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
+  <sub>Real-time metrics generated via GitHub Actions · no third-party Vercel dependency</sub>
+</p>
+
+<p align="center">
   <a href="https://github.com/ShaneLiu04" target="_blank">
-    <img width="48%" src="./assets/github-stats.svg" alt="GitHub Stats" />
+    <img width="78%" src="./assets/github-stats.svg" alt="GitHub Stats" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ShaneLiu04" target="_blank">
-    <img width="48%" src="./assets/top-langs.svg" alt="Top Languages" />
+    <img width="78%" src="./assets/top-langs.svg" alt="Top Languages" />
   </a>
 </p>
 
