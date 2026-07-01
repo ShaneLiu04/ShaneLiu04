@@ -137,11 +137,10 @@
 
 <p align="center">
   <a href="https://github.com/ShaneLiu04" target="_blank">
-    <img width="49%" src="./assets/github-stats.svg" alt="GitHub Stats" />
+    <img width="48%" src="./assets/github-stats.svg" alt="GitHub Stats" />
   </a>
-  &nbsp;
   <a href="https://github.com/ShaneLiu04" target="_blank">
-    <img width="49%" src="./assets/top-langs.svg" alt="Top Languages" />
+    <img width="48%" src="./assets/top-langs.svg" alt="Top Languages" />
   </a>
 </p>
 
