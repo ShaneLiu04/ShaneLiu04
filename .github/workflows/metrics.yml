@@ -19,7 +19,7 @@ jobs:
           user: ShaneLiu04
           filename: assets/github-stats.svg
           template: classic
-          base: activity, community, repositories
+          base: activity, repositories
           config_timezone: Asia/Shanghai
           config_padding: 12
           extras_css: |
