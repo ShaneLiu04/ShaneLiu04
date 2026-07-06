@@ -44,14 +44,14 @@ h2 svg, h3 svg {
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="186.69484059458708" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="186.69484059458708" y="0" width="121.518689861577" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="308.21353045616405" y="0" width="88.08798444538937" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="396.30151490155345" y="0" width="19.227031962149965" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="415.5285468637034" y="0" width="15.608221816196831" height="8" fill="#e16737"/>
-                    <rect mask="url(#languages-bar)" x="431.13676867990023" y="0" width="14.213609802372003" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="445.3503784822722" y="0" width="8.443243752153084" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.79362223442524" y="0" width="6.206377765574641" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.17861268056828" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="190.17861268056828" y="0" width="119.96971281121408" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="310.1483254917824" y="0" width="86.96514263007633" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="397.11346812185866" y="0" width="18.981948417471447" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="416.09541653933013" y="0" width="15.409266598544281" height="8" fill="#e16737"/>
+                    <rect mask="url(#languages-bar)" x="431.5046831378744" y="0" width="14.032431455141902" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="445.5371145930163" y="0" width="8.335619231039475" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.8727338240558" y="0" width="6.1272661759442" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -63,8 +63,8 @@ h2 svg, h3 svg {
                                 Python
                             </div>
                             <small>
-                                <div>4.72 MB</div>
-                                <div>40.59%</div>
+                                <div>4.87 MB</div>
+                                <div>41.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -76,7 +76,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>2.23 MB</div>
-                                <div>19.15%</div>
+                                <div>18.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -88,7 +88,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>394 kB</div>
-                                <div>3.39%</div>
+                                <div>3.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -100,7 +100,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>213 kB</div>
-                                <div>1.84%</div>
+                                <div>1.81%</div>
                             </small>
                         </div>
                     </section>
@@ -114,7 +114,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>3.07 MB</div>
-                                <div>26.42%</div>
+                                <div>26.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -126,7 +126,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>485 kB</div>
-                                <div>4.18%</div>
+                                <div>4.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -138,7 +138,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>359 kB</div>
-                                <div>3.09%</div>
+                                <div>3.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -150,7 +150,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>156 kB</div>
-                                <div>1.35%</div>
+                                <div>1.33%</div>
                             </small>
                         </div>
                     </section>
