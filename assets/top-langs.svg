@@ -44,14 +44,14 @@ h2 svg, h3 svg {
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.17861268056828" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="190.17861268056828" y="0" width="119.96971281121408" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="310.1483254917824" y="0" width="86.96514263007633" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="397.11346812185866" y="0" width="18.981948417471447" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="416.09541653933013" y="0" width="15.409266598544281" height="8" fill="#e16737"/>
-                    <rect mask="url(#languages-bar)" x="431.5046831378744" y="0" width="14.032431455141902" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="445.5371145930163" y="0" width="8.335619231039475" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.8727338240558" y="0" width="6.1272661759442" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.489953087208" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="188.489953087208" y="0" width="118.90446155295817" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="307.39441464016613" y="0" width="88.45149556155356" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="395.84591020171973" y="0" width="19.75928132004215" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="415.60519152176187" y="0" width="15.272442559807685" height="8" fill="#e16737"/>
+                    <rect mask="url(#languages-bar)" x="430.8776340815695" y="0" width="13.925844762454675" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.8034788440242" y="0" width="9.123661028447033" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.92713987247123" y="0" width="6.072860127528759" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -64,7 +64,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>4.87 MB</div>
-                                <div>41.34%</div>
+                                <div>40.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -75,8 +75,8 @@ h2 svg, h3 svg {
                                 Java
                             </div>
                             <small>
-                                <div>2.23 MB</div>
-                                <div>18.91%</div>
+                                <div>2.28 MB</div>
+                                <div>19.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -88,7 +88,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>394 kB</div>
-                                <div>3.35%</div>
+                                <div>3.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -99,8 +99,8 @@ h2 svg, h3 svg {
                                 TypeScript
                             </div>
                             <small>
-                                <div>213 kB</div>
-                                <div>1.81%</div>
+                                <div>235 kB</div>
+                                <div>1.98%</div>
                             </small>
                         </div>
                     </section>
@@ -114,7 +114,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>3.07 MB</div>
-                                <div>26.08%</div>
+                                <div>25.85%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -125,8 +125,8 @@ h2 svg, h3 svg {
                                 Vue
                             </div>
                             <small>
-                                <div>485 kB</div>
-                                <div>4.13%</div>
+                                <div>510 kB</div>
+                                <div>4.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -138,7 +138,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>359 kB</div>
-                                <div>3.05%</div>
+                                <div>3.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -150,7 +150,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>156 kB</div>
-                                <div>1.33%</div>
+                                <div>1.32%</div>
                             </small>
                         </div>
                     </section>
