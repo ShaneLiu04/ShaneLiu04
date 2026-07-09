@@ -44,14 +44,14 @@ h2 svg, h3 svg {
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.489953087208" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="188.489953087208" y="0" width="118.90446155295817" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="307.39441464016613" y="0" width="88.45149556155356" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="395.84591020171973" y="0" width="19.75928132004215" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="415.60519152176187" y="0" width="15.272442559807685" height="8" fill="#e16737"/>
-                    <rect mask="url(#languages-bar)" x="430.8776340815695" y="0" width="13.925844762454675" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.8034788440242" y="0" width="9.123661028447033" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.92713987247123" y="0" width="6.072860127528759" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.95836013392636" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="188.95836013392636" y="0" width="118.64741331669407" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="307.60577345062046" y="0" width="88.26028069348156" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="395.86605414410207" y="0" width="19.716565610750607" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="415.58261975485266" y="0" width="15.239426520105129" height="8" fill="#e16737"/>
+                    <rect mask="url(#languages-bar)" x="430.82204627495776" y="0" width="14.014284481513451" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.8363307564712" y="0" width="9.103937454200919" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.9402682106722" y="0" width="6.059731789327888" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -63,8 +63,8 @@ h2 svg, h3 svg {
                                 Python
                             </div>
                             <small>
-                                <div>4.87 MB</div>
-                                <div>40.98%</div>
+                                <div>4.89 MB</div>
+                                <div>41.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -76,7 +76,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>2.28 MB</div>
-                                <div>19.23%</div>
+                                <div>19.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -88,7 +88,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>394 kB</div>
-                                <div>3.32%</div>
+                                <div>3.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,7 +114,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>3.07 MB</div>
-                                <div>25.85%</div>
+                                <div>25.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -126,7 +126,7 @@ h2 svg, h3 svg {
                             </div>
                             <small>
                                 <div>510 kB</div>
-                                <div>4.3%</div>
+                                <div>4.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -137,8 +137,8 @@ h2 svg, h3 svg {
                                 HTML
                             </div>
                             <small>
-                                <div>359 kB</div>
-                                <div>3.03%</div>
+                                <div>362 kB</div>
+                                <div>3.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
