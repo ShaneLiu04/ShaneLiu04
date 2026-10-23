@@ -1,0 +1,227 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img">
+  <title>Shane Liu — 精力分配决定层次 — 见路不走</title>
+  <desc>Blue and violet typographic profile banner: Shane Liu, the motto 精力分配决定层次, the vertical calligraphic phrase 见路不走, and line-art physical agents: an autonomous vehicle with sensor arcs and a robotic arm manipulating a cube.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B18"/>
+      <stop offset="0.55" stop-color="#0C1230"/>
+      <stop offset="1" stop-color="#17103A"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" gradientUnits="userSpaceOnUse" x1="80" y1="90" x2="540" y2="340">
+      <stop offset="0" stop-color="#F8FAFF"/>
+      <stop offset="0.5" stop-color="#BFDBFE"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="phraseGrad" gradientUnits="userSpaceOnUse" x1="0" y1="70" x2="0" y2="420">
+      <stop offset="0" stop-color="#93C5FD"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3B4A86"/>
+      <stop offset="1" stop-color="#3B2F72"/>
+    </linearGradient>
+    <linearGradient id="armGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#93C5FD"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#93C5FD"/>
+    </linearGradient>
+    <radialGradient id="glowArm" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6366F1" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glassGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1E2A5A"/>
+      <stop offset="1" stop-color="#2A1E5A"/>
+    </linearGradient>
+    <linearGradient id="segmentFill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2A3E7A"/>
+      <stop offset="1" stop-color="#141F45"/>
+    </linearGradient>
+    <linearGradient id="coneGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60A5FA" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="carMask" maskUnits="userSpaceOnUse" x="540" y="100" width="300" height="120">
+      <rect x="540" y="100" width="300" height="120" fill="black"/>
+      <path d="M 576 184 C 578 170 588 160 602 154 L 626 144 C 638 136 648 132 662 132 L 682 134 C 698 138 710 146 720 156 L 740 164 C 754 170 764 176 768 184 C 770 190 766 196 758 196 L 584 196 C 578 194 575 190 576 184 Z" fill="white"/>
+      <circle cx="612" cy="186" r="21" fill="black"/>
+      <circle cx="716" cy="186" r="21" fill="black"/>
+    </mask>
+    <radialGradient id="glowPurple" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBlue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2563EB" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#A5B4FC" opacity="0.06"/>
+    </pattern>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" fill="none" stroke="#A5B4FC" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card">
+      <rect width="1200" height="480" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="480" fill="url(#bg)"/>
+    <rect width="1200" height="480" fill="url(#grid)"/>
+    <rect width="1200" height="480" fill="url(#dots)"/>
+    <circle cx="1010" cy="245" r="310" fill="url(#glowPurple)"/>
+    <circle cx="140" cy="100" r="280" fill="url(#glowBlue)"/>
+
+    <text x="80" y="195" fill="url(#nameGrad)" font-family="'Bodoni MT',Didot,'Playfair Display',Georgia,'Times New Roman',serif" font-size="138" letter-spacing="1">Shane</text>
+    <text x="80" y="320" fill="url(#nameGrad)" font-family="'Bodoni MT',Didot,'Playfair Display',Georgia,'Times New Roman',serif" font-style="italic" font-size="138" letter-spacing="1">Liu</text>
+
+    <rect x="84" y="350" width="3" height="48" fill="url(#accentGrad)"/>
+    <text x="104" y="390" fill="#DCE4FF" font-family="'Songti SC','STSong','Noto Serif CJK SC','Source Han Serif SC','SimSun',serif" font-size="40" letter-spacing="6">精力分配决定层次</text>
+
+    <circle cx="660" cy="150" r="200" fill="url(#glowArm)"/>
+    <circle cx="660" cy="360" r="210" fill="url(#glowArm)"/>
+
+    <g opacity="0.95">
+      <ellipse cx="664" cy="205" rx="100" ry="6" fill="#60A5FA" opacity="0.10"/>
+      <line x1="540" y1="205" x2="800" y2="205" stroke="#2E3C6E" stroke-width="1.2"/>
+      <line x1="556" y1="213" x2="784" y2="213" stroke="#3B4A86" stroke-width="1" stroke-dasharray="12 10" opacity="0.4"/>
+      <path d="M 576 184 C 578 170 588 160 602 154 L 626 144 C 638 136 648 132 662 132 L 682 134 C 698 138 710 146 720 156 L 740 164 C 754 170 764 176 768 184 C 770 190 766 196 758 196 L 584 196 C 578 194 575 190 576 184 Z" fill="#0E1630" fill-opacity="0.85" stroke="url(#armGrad)" stroke-width="2.2" mask="url(#carMask)"/>
+      <path d="M 630 150 C 640 142 650 138 662 138 L 678 140 C 690 144 700 150 710 158 L 696 162 C 686 156 674 152 662 152 L 644 154 Z" fill="url(#glassGrad)" fill-opacity="0.9" stroke="#93C5FD" stroke-width="1.1"/>
+      <path d="M 630 150 C 642 140 654 136 666 136 L 680 138 C 692 142 702 148 712 156" fill="none" stroke="#C4B5FD" stroke-width="1" opacity="0.6"/>
+      <line x1="670" y1="139" x2="670" y2="152" stroke="#A5B4FC" stroke-width="1" opacity="0.5"/>
+      <path d="M 602 154 C 618 144 642 136 662 136 C 682 136 700 146 716 158" fill="none" stroke="#C4B5FD" stroke-width="1.2" opacity="0.55"/>
+      <path d="M 586 178 C 620 171 680 169 746 176" fill="none" stroke="#A5B4FC" stroke-width="0.8" opacity="0.45"/>
+      <line x1="668" y1="152" x2="668" y2="190" stroke="#A5B4FC" stroke-width="0.9" opacity="0.45"/>
+      <line x1="684" y1="168" x2="696" y2="168" stroke="#93C5FD" stroke-width="1.2" stroke-linecap="round"/>
+      <circle cx="606" cy="158" r="1.6" fill="#93C5FD"/>
+      <circle cx="722" cy="158" r="1.6" fill="#93C5FD"/>
+      <line x1="752" y1="174" x2="764" y2="179" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round"/>
+      <ellipse cx="760" cy="177" rx="6" ry="3" fill="#93C5FD" opacity="0.15"/>
+      <line x1="578" y1="174" x2="588" y2="179" stroke="#8B5CF6" stroke-width="2.5" stroke-linecap="round"/>
+      <g>
+        <circle cx="612" cy="186" r="18" fill="#0B1228" stroke="url(#armGrad)" stroke-width="2.2"/>
+        <circle cx="612" cy="186" r="10" fill="none" stroke="#A5B4FC" stroke-width="1.1"/>
+        <circle cx="612" cy="186" r="3" fill="#C4B5FD"/>
+        <g stroke="#A5B4FC" stroke-width="0.8" opacity="0.5">
+          <line x1="612" y1="186" x2="622" y2="186"/>
+          <line x1="612" y1="186" x2="615.1" y2="195.5"/>
+          <line x1="612" y1="186" x2="603.9" y2="191.9"/>
+          <line x1="612" y1="186" x2="603.9" y2="180.1"/>
+          <line x1="612" y1="186" x2="615.1" y2="176.5"/>
+        </g>
+      </g>
+      <g>
+        <circle cx="716" cy="186" r="18" fill="#0B1228" stroke="url(#armGrad)" stroke-width="2.2"/>
+        <circle cx="716" cy="186" r="10" fill="none" stroke="#A5B4FC" stroke-width="1.1"/>
+        <circle cx="716" cy="186" r="3" fill="#C4B5FD"/>
+        <g stroke="#A5B4FC" stroke-width="0.8" opacity="0.5">
+          <line x1="716" y1="186" x2="726" y2="186"/>
+          <line x1="716" y1="186" x2="719.1" y2="195.5"/>
+          <line x1="716" y1="186" x2="707.9" y2="191.9"/>
+          <line x1="716" y1="186" x2="707.9" y2="180.1"/>
+          <line x1="716" y1="186" x2="719.1" y2="176.5"/>
+        </g>
+      </g>
+      <path d="M 590 196 A 22 22 0 0 1 634 196" fill="none" stroke="url(#armGrad)" stroke-width="1.6"/>
+      <path d="M 694 196 A 22 22 0 0 1 738 196" fill="none" stroke="url(#armGrad)" stroke-width="1.6"/>
+      <rect x="650" y="124" width="28" height="8" rx="4" fill="#17103A" stroke="#A5B4FC" stroke-width="1.2"/>
+      <circle cx="664" cy="128" r="2.5" fill="#C4B5FD"/>
+      <g fill="none" stroke="url(#scanGrad)" stroke-width="1.2" stroke-dasharray="3 6" opacity="0.5">
+        <path d="M 631.1 109 A 38 38 0 0 1 696.9 109"/>
+        <path d="M 613.8 99 A 58 58 0 0 1 714.2 99"/>
+        <path d="M 596.5 89 A 78 78 0 0 1 731.5 89"/>
+      </g>
+      <polygon points="766,177 806,162 806,198" fill="url(#coneGrad)"/>
+    </g>
+
+    <g opacity="0.95">
+      <ellipse cx="660" cy="448" rx="90" ry="9" fill="#6366F1" opacity="0.10"/>
+      <ellipse cx="660" cy="448" rx="112" ry="15" fill="#6366F1" fill-opacity="0.04" stroke="#2E3C6E" stroke-width="1.2"/>
+      <ellipse cx="660" cy="448" rx="92" ry="11" fill="none" stroke="#3B4A86" stroke-width="1" stroke-dasharray="3 6" opacity="0.5"/>
+      <g stroke="#3B4A86" stroke-width="0.8" opacity="0.45">
+        <line x1="548" y1="448" x2="554" y2="448"/>
+        <line x1="766" y1="448" x2="772" y2="448"/>
+        <line x1="660" y1="433" x2="660" y2="439"/>
+        <line x1="660" y1="457" x2="660" y2="463"/>
+      </g>
+
+      <ellipse cx="660" cy="444" rx="58" ry="12" fill="#0B1228" stroke="#A5B4FC" stroke-width="1.2"/>
+      <path d="M 602 414 L 602 444 C 602 451 628 458 660 458 C 692 458 718 451 718 444 L 718 414 Z" fill="#0E1630" stroke="url(#armGrad)" stroke-width="1.6"/>
+      <ellipse cx="660" cy="414" rx="58" ry="12" fill="#17103A" stroke="#A5B4FC" stroke-width="1.4"/>
+      <ellipse cx="660" cy="410" rx="34" ry="7" fill="#101A36" stroke="#93C5FD" stroke-width="1.2"/>
+      <circle cx="660" cy="408" r="4" fill="#C4B5FD"/>
+      <line x1="660" y1="414" x2="660" y2="444" stroke="#A5B4FC" stroke-width="0.8" opacity="0.35"/>
+      <circle cx="660" cy="446" r="5" fill="#93C5FD" opacity="0.12"/>
+      <circle cx="660" cy="446" r="2" fill="#93C5FD"/>
+      <rect x="638" y="390" width="10" height="24" rx="3" fill="#17103A" stroke="#A5B4FC" stroke-width="1.2"/>
+      <rect x="672" y="390" width="10" height="24" rx="3" fill="#17103A" stroke="#A5B4FC" stroke-width="1.2"/>
+      <rect x="654" y="398" width="12" height="16" rx="3" fill="#101A36" stroke="#A5B4FC" stroke-width="1"/>
+
+      <path d="M 674 392 C 662 368 650 336 644 310 C 656 292 678 274 696 264" fill="none" stroke="#8B5CF6" stroke-width="1" stroke-dasharray="2 4" opacity="0.35"/>
+      <path d="M 640.2 278.8 A 24 24 0 0 1 657.2 308.2" fill="none" stroke="#8B5CF6" stroke-width="1" stroke-dasharray="2 4" opacity="0.45"/>
+
+      <polygon points="676.4,393.6 645.6,298.9 622.4,305.1 643.6,402.4" fill="url(#segmentFill)" stroke="url(#armGrad)" stroke-width="1.8"/>
+      <polygon points="640.7,313.1 627.3,290.9 704.1,268.8 695.9,255.2" fill="url(#segmentFill)" stroke="url(#armGrad)" stroke-width="1.8"/>
+      <line x1="660" y1="398" x2="634" y2="302" stroke="#93C5FD" stroke-width="0.9" opacity="0.3"/>
+      <line x1="634" y1="302" x2="700" y2="262" stroke="#93C5FD" stroke-width="0.9" opacity="0.3"/>
+      <line x1="654.7" y1="347.9" x2="639.3" y2="352.1" stroke="#93C5FD" stroke-width="0.8" opacity="0.25"/>
+      <line x1="670.1" y1="287.1" x2="663.9" y2="276.9" stroke="#93C5FD" stroke-width="0.8" opacity="0.25"/>
+
+      <circle cx="660" cy="398" r="16" fill="#0B1228" stroke="url(#armGrad)" stroke-width="2"/>
+      <circle cx="634" cy="302" r="14" fill="#0B1228" stroke="url(#armGrad)" stroke-width="2"/>
+      <circle cx="700" cy="262" r="10" fill="#0B1228" stroke="url(#armGrad)" stroke-width="2"/>
+      <circle cx="660" cy="398" r="8" fill="none" stroke="#A5B4FC" stroke-width="1" opacity="0.6"/>
+      <circle cx="634" cy="302" r="7" fill="none" stroke="#A5B4FC" stroke-width="1" opacity="0.6"/>
+      <circle cx="700" cy="262" r="5" fill="none" stroke="#A5B4FC" stroke-width="1" opacity="0.6"/>
+      <circle cx="660" cy="398" r="2.5" fill="#C4B5FD"/>
+      <circle cx="634" cy="302" r="2.2" fill="#C4B5FD"/>
+      <circle cx="700" cy="262" r="2" fill="#C4B5FD"/>
+
+      <line x1="700" y1="262" x2="708" y2="262" stroke="url(#armGrad)" stroke-width="8" stroke-linecap="round"/>
+      <rect x="708" y="250" width="22" height="22" rx="6" fill="#17103A" stroke="#A5B4FC" stroke-width="1.2"/>
+      <circle cx="716" cy="248" r="3.5" fill="#0B1228" stroke="#93C5FD" stroke-width="1"/>
+      <circle cx="716" cy="248" r="1.2" fill="#C4B5FD"/>
+
+      <path d="M 718 272 L 732 278" fill="none" stroke="url(#armGrad)" stroke-width="5.5" stroke-linecap="round"/>
+      <path d="M 732 278 L 744 272" fill="none" stroke="url(#armGrad)" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="732" cy="278" r="2.5" fill="#0B1228" stroke="#A5B4FC" stroke-width="1"/>
+
+      <polygon points="738,246 750,238 774,238 762,246" fill="#17103A" fill-opacity="0.95" stroke="#93C5FD" stroke-width="1.3"/>
+      <polygon points="762,246 774,238 774,262 762,270" fill="#0F1730" fill-opacity="0.95" stroke="#93C5FD" stroke-width="1.3"/>
+      <rect x="738" y="246" width="24" height="24" fill="#1B2A44" fill-opacity="0.95" stroke="#93C5FD" stroke-width="1.3"/>
+      <circle cx="750" cy="258" r="6" fill="#C4B5FD" opacity="0.10"/>
+      <circle cx="750" cy="258" r="3" fill="#C4B5FD"/>
+      <path d="M 745 253 H 755 M 745 263 H 755" stroke="#93C5FD" stroke-width="0.6" opacity="0.45"/>
+
+      <path d="M 718 250 L 732 244" fill="none" stroke="url(#armGrad)" stroke-width="5.5" stroke-linecap="round"/>
+      <path d="M 732 244 L 746 250" fill="none" stroke="url(#armGrad)" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="732" cy="244" r="2.5" fill="#0B1228" stroke="#A5B4FC" stroke-width="1"/>
+      <rect x="730" y="252" width="8" height="16" rx="4" fill="url(#segmentFill)" stroke="url(#armGrad)" stroke-width="1.2"/>
+
+      <g fill="none" stroke="#93C5FD" stroke-width="1" opacity="0.5">
+        <path d="M 734 242 V 232 H 742"/>
+        <path d="M 770 232 H 778 V 242"/>
+        <path d="M 734 272 V 282 H 742"/>
+        <path d="M 770 282 H 778 V 272"/>
+      </g>
+    </g>
+
+    <line x1="820" y1="70" x2="820" y2="440" stroke="url(#ruleGrad)" stroke-width="1.2"/>
+
+    <text x="1010" y="140" text-anchor="middle" fill="url(#phraseGrad)" font-family="'Kaiti SC','STKaiti','KaiTi','Noto Serif CJK SC','Songti SC',serif" font-size="88" font-weight="500">见</text>
+    <text x="1010" y="233" text-anchor="middle" fill="url(#phraseGrad)" font-family="'Kaiti SC','STKaiti','KaiTi','Noto Serif CJK SC','Songti SC',serif" font-size="88" font-weight="500">路</text>
+    <text x="1010" y="326" text-anchor="middle" fill="url(#phraseGrad)" font-family="'Kaiti SC','STKaiti','KaiTi','Noto Serif CJK SC','Songti SC',serif" font-size="88" font-weight="500">不</text>
+    <text x="1010" y="419" text-anchor="middle" fill="url(#phraseGrad)" font-family="'Kaiti SC','STKaiti','KaiTi','Noto Serif CJK SC','Songti SC',serif" font-size="88" font-weight="500">走</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1199" height="479" rx="28" fill="none" stroke="#262C5A" stroke-width="1"/>
+</svg>

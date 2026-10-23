@@ -59,7 +59,7 @@ jobs:
           template: classic
           base: ""
           plugin_languages: yes
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
           plugin_languages_details: bytes-size, percentage
           config_timezone: Asia/Shanghai
           config_padding: 12

@@ -1,195 +1,43 @@
-<!-- ═════════════════════════════════════════════════════════════════════════════
-     ShaneLiu04 — AI System Engineer · GitHub Profile README
-     Inspired by https://github.com/dodolalorc/dodolalorc
-     ═════════════════════════════════════════════════════════════════════════════ -->
-
-<!-- Dynamic Typing Title -->
-
+<div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Shane Liu — 精力分配决定层次 — 见路不走 — 物理智能体：智能驾驶与机器人" />
+</div>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+System+Engineer;Research+%E2%86%92+Robust+Systems;Algorithm+%26+Full-Stack+Engineering" alt="typing" />
+  <i>聚焦端侧模型、AI Infra 与 Agent 基础设施，为物理智能体筑牢底座，构建万物互联的智能世界。</i>
 </p>
 
 
-<!-- Core Identity -->
+## <samp>01</samp> — Stack
 
-<h3 align="center">
-  算法与工程实践爱好者
-  <br>
-  <sub>致力于将前沿算法研究转化为稳健高效的实用系统</sub>
-</h3>
+**On-device AI**<br>
+<img src="https://img.shields.io/badge/Python-1B2A44?style=flat-square&logo=python&logoColor=93C5FD" alt="Python" /> <img src="https://img.shields.io/badge/C%2B%2B-1B2A44?style=flat-square&logo=cplusplus&logoColor=93C5FD" alt="C++" /> <img src="https://img.shields.io/badge/CUDA-1B2A44?style=flat-square&logo=nvidia&logoColor=93C5FD" alt="CUDA" /> <img src="./assets/stack/triton.svg" alt="Triton" /> <img src="https://img.shields.io/badge/PyTorch-1B2A44?style=flat-square&logo=pytorch&logoColor=93C5FD" alt="PyTorch" /> <img src="https://img.shields.io/badge/TensorRT--LLM-1B2A44?style=flat-square&logo=nvidia&logoColor=93C5FD" alt="TensorRT-LLM" /> <img src="https://img.shields.io/badge/ONNX%20Runtime-1B2A44?style=flat-square&logo=onnx&logoColor=93C5FD" alt="ONNX Runtime" /><br>
+<img src="./assets/stack/llamacpp.svg" alt="llama.cpp" /> <img src="https://img.shields.io/badge/Ollama-1B2A44?style=flat-square&logo=ollama&logoColor=93C5FD" alt="Ollama" /> <img src="https://img.shields.io/badge/MLX-1B2A44?style=flat-square&logo=apple&logoColor=93C5FD" alt="MLX" /> <img src="https://img.shields.io/badge/ExecuTorch-1B2A44?style=flat-square&logo=pytorch&logoColor=93C5FD" alt="ExecuTorch" /> <img src="https://img.shields.io/badge/LiteRT--LM-1B2A44?style=flat-square&logo=google&logoColor=93C5FD" alt="LiteRT-LM" />
 
+**AI Infra**<br>
+<img src="https://img.shields.io/badge/Linux-1B2A44?style=flat-square&logo=linux&logoColor=A5B4FC" alt="Linux" /> <img src="https://img.shields.io/badge/Docker-1B2A44?style=flat-square&logo=docker&logoColor=A5B4FC" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-1B2A44?style=flat-square&logo=kubernetes&logoColor=A5B4FC" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Helm-1B2A44?style=flat-square&logo=helm&logoColor=A5B4FC" alt="Helm" /> <img src="https://img.shields.io/badge/vLLM-1B2A44?style=flat-square&logo=vllm&logoColor=A5B4FC" alt="vLLM" /> <img src="./assets/stack/sglang.svg" alt="SGLang" /> <img src="https://img.shields.io/badge/Ray-1B2A44?style=flat-square&logo=ray&logoColor=A5B4FC" alt="Ray" /> <img src="https://img.shields.io/badge/NVIDIA%20Dynamo-1B2A44?style=flat-square&logo=nvidia&logoColor=A5B4FC" alt="NVIDIA Dynamo" />
+<img src="https://img.shields.io/badge/Argo%20CD-1B2A44?style=flat-square&logo=argo&logoColor=A5B4FC" alt="Argo CD" /> <img src="https://img.shields.io/badge/Prometheus-1B2A44?style=flat-square&logo=prometheus&logoColor=A5B4FC" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-1B2A44?style=flat-square&logo=grafana&logoColor=A5B4FC" alt="Grafana" /> <img src="https://img.shields.io/badge/OpenTelemetry-1B2A44?style=flat-square&logo=opentelemetry&logoColor=A5B4FC" alt="OpenTelemetry" /> <img src="https://img.shields.io/badge/Kafka-1B2A44?style=flat-square&logo=apachekafka&logoColor=A5B4FC" alt="Kafka" /> <img src="https://img.shields.io/badge/Redis-1B2A44?style=flat-square&logo=redis&logoColor=A5B4FC" alt="Redis" /> <img src="https://img.shields.io/badge/PostgreSQL-1B2A44?style=flat-square&logo=postgresql&logoColor=A5B4FC" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/GitHub%20Actions-1B2A44?style=flat-square&logo=githubactions&logoColor=A5B4FC" alt="GitHub Actions" />
 
-<!-- Quick Badges -->
+**Agent**<br>
+<img src="https://img.shields.io/badge/LangGraph-1B2A44?style=flat-square&logo=langgraph&logoColor=C084FC" alt="LangGraph" /> <img src="https://img.shields.io/badge/PydanticAI-1B2A44?style=flat-square&logo=pydantic&logoColor=C084FC" alt="PydanticAI" /> <img src="./assets/stack/openai-agents.svg" alt="OpenAI Agents" /> <img src="https://img.shields.io/badge/Google%20ADK-1B2A44?style=flat-square&logo=google&logoColor=C084FC" alt="Google ADK" /> <img src="https://img.shields.io/badge/CrewAI-1B2A44?style=flat-square&logo=crewai&logoColor=C084FC" alt="CrewAI" /> <img src="https://img.shields.io/badge/MCP-1B2A44?style=flat-square&logo=modelcontextprotocol&logoColor=C084FC" alt="MCP" /> <img src="./assets/stack/a2a.svg" alt="A2A" /> <img src="./assets/stack/llamaindex.svg" alt="LlamaIndex" />
+<img src="./assets/stack/litellm.svg" alt="LiteLLM" /> <img src="./assets/stack/langfuse.svg" alt="Langfuse" /> <img src="./assets/stack/ragas.svg" alt="Ragas" /> <img src="https://img.shields.io/badge/FastAPI-1B2A44?style=flat-square&logo=fastapi&logoColor=C084FC" alt="FastAPI" /> <img src="https://img.shields.io/badge/Qdrant-1B2A44?style=flat-square&logo=qdrant&logoColor=C084FC" alt="Qdrant" /> <img src="https://img.shields.io/badge/DeepSeek-1B2A44?style=flat-square&logo=deepseek&logoColor=C084FC" alt="DeepSeek" /> <img src="https://img.shields.io/badge/LLaMA-1B2A44?style=flat-square&logo=meta&logoColor=C084FC" alt="LLaMA" />
 
-<p align="center">
-  <a href="https://github.com/ShaneLiu04">
-    <img src="https://img.shields.io/badge/Location-Shanghai-0ea5e9?style=flat-square" />
-  </a>
-  <img src="https://img.shields.io/badge/Role-AI%20System%20Engineer-6366f1?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-LLM%20%7C%20RL%20%7C%20Optimization-8b5cf6?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-10b981?style=flat-square" />
-</p>
-
-
-<br>
-
-<!-- ═════════════════════════════════════════════════════════════════════════════
-     MOTTO
-     ═════════════════════════════════════════════════════════════════════════════ -->
+## <samp>02</samp> — Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e0f2fe,100:f0f9ff&height=2&width=600" />
+  <img width="49%" src="./assets/top-langs.svg" alt="Top languages" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ShaneLiu04&theme=transparent&hide_border=true&background=0D1117&stroke=0EA5E9&ring=38BDF8&fire=FBBF24&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub streak" />
 </p>
-
-
-<h2 align="center">
-  " 精力分配决定层次。 "
-</h2>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f0f9ff,100:e0f2fe&height=2&width=600" />
-</p>
-
-<br>
-<!-- ═════════════════════════════════════════════════════════════════════════════
-     TECH STACK
-     ═════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">Tech Stack</h2>
-
-<p align="center">
-  <sub>AI Algorithm Engineer · AI Application Engineer · Aspiring System Architect</sub>
-</p>
-
-
-<h3 align="center">AI Algorithm & Research</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAX-1F6FEB?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Transformers-FFBD00?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/DeepSeek-4F46E5?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLaMA-0F172A?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-</p>
-
-
-<h3 align="center">AI Application & Agentic Systems</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" />
-</p>
-
-
-<h3 align="center">System Architecture & MLOps</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
-
-<h3 align="center">Model Serving & Optimization</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/vLLM-4F46E5?style=for-the-badge&logo=vllm&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFCC33?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
-  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-</p>
-
-
-<br>
-
-
-<!-- ═════════════════════════════════════════════════════════════════════════════
-     STAR ACHIEVEMENTS
-     ═════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">Star Achievements</h2>
-
-<p align="center">
-  <sub>Achievement metrics generated via GitHub Actions · no third-party dependency</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShaneLiu04?tab=repositories" target="_blank">
-    <img width="85%" src="./assets/star-stats.svg" alt="GitHub Star Achievements" />
-  </a>
-</p>
-
-
-<br>
-
-<!-- ═════════════════════════════════════════════════════════════════════════════
-     GITHUB STATS
-     ═════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <sub>Real-time metrics generated via GitHub Actions · no third-party Vercel dependency</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShaneLiu04" target="_blank">
-    <img width="78%" src="./assets/github-stats.svg" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShaneLiu04" target="_blank">
-    <img width="78%" src="./assets/top-langs.svg" alt="Top Languages" />
-  </a>
-</p>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShaneLiu04&theme=transparent&hide_border=true&background=0D1117&stroke=0EA5E9&ring=38BDF8&fire=FBBF24&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
-</p>
-
-
-
-<br>
-
-<!-- ═════════════════════════════════════════════════════════════════════════════
-     CONTRIBUTION GRAPH
-     ═════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">Contribution Graph</h2>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShaneLiu04/ShaneLiu04/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShaneLiu04/ShaneLiu04/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ShaneLiu04/ShaneLiu04/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/ShaneLiu04/ShaneLiu04/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-<br>
+
+<details>
+  <summary><sub>Star achievements</sub></summary>
+  <p align="center">
+    <img width="72%" src="./assets/star-stats.svg" alt="Star achievements" />
+  </p>
+</details>
