@@ -24,7 +24,7 @@
 
 <p align="center">
   <img width="49%" src="./assets/top-langs.svg" alt="Top languages" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=ShaneLiu04&theme=transparent&hide_border=true&background=0D1117&stroke=0EA5E9&ring=38BDF8&fire=FBBF24&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub streak" />
+  <img width="49%" src="./assets/streak-stats.svg" alt="GitHub streak" />
 </p>
 
 <p align="center">
