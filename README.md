@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Shane Liu — 精力分配决定层次 — AI — 物理智能体：智能驾驶与机器人" />
+  <img src="./assets/banner.svg" width="100%" alt="Shane Liu — 精力分配决定层次 — 见路不走 — 物理智能体：智能驾驶与机器人" />
 </div>
 <p align="center">
   <i>聚焦端侧模型、AI Infra 与 Agent 基础设施，为物理智能体筑牢底座，构建万物互联的智能世界。</i>
