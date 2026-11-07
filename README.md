@@ -28,6 +28,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github-pulse-topaz.vercel.app/s/ShaneLiu04">
+    <img src="https://github-pulse-topaz.vercel.app/u/ShaneLiu04?size=wide&w=full&theme=aura" alt="GitHub Pulse — live contribution EKG" />
+  </a>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShaneLiu04/ShaneLiu04/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShaneLiu04/ShaneLiu04/output/github-contribution-grid-snake.svg" />
