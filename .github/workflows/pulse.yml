@@ -1,0 +1,51 @@
+name: GitHub Pulse
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "23 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pouyashahrdami/github-pulse@v1
+        with:
+          username: ShaneLiu04
+          theme: aura
+          size: wide
+          params: "w=full"
+
+      - name: Point README at the local card
+        env:
+          PULSE_VERSION: ${{ github.run_number }}
+        run: |
+          python3 - <<'PY'
+          import os, re
+          from pathlib import Path
+          p = Path('README.md')
+          s = p.read_text(encoding='utf-8')
+          v = os.environ['PULSE_VERSION']
+          s = re.sub(
+              r'<img src="https://github-pulse-topaz\.vercel\.app/u/ShaneLiu04[^"]*"[^>]*/>',
+              f'<img width="100%" src="./pulse.svg?v={v}" alt="GitHub Pulse — contribution EKG" />',
+              s,
+          )
+          s = re.sub(r'\./pulse\.svg\?v=\d+', f'./pulse.svg?v={v}', s)
+          p.write_text(s, encoding='utf-8')
+          PY
+
+      - name: Commit the card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pulse.svg README.md
+          git diff --cached --quiet || git commit -m "pulse: update [skip ci]"
+          git push

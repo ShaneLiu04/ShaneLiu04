@@ -28,9 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github-pulse-topaz.vercel.app/s/ShaneLiu04">
-    <img src="https://github-pulse-topaz.vercel.app/u/ShaneLiu04?size=wide&w=full&theme=aura" alt="GitHub Pulse — live contribution EKG" />
-  </a>
+  <img src="https://github-pulse-topaz.vercel.app/u/ShaneLiu04?size=wide&w=full&theme=aura" alt="GitHub Pulse — contribution EKG" />
 </p>
 
 <p align="center">
