@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%"
+     viewBox="0 0 830 150" role="img" aria-labelledby="gp-title gp-desc">
+  <title id="gp-title">ShaneLiu04's pulse — 93 bpm (radiant)</title>
+  <desc id="gp-desc">GitHub activity heartbeat for @ShaneLiu04: 19 contributions this week, 2654 in the last year.</desc>
+  <style>.gp-sweep{animation:gp-sweep 3.9s linear infinite}
+       .gp-heart{animation:gp-thump 0.6s ease-in-out infinite;transform-origin:center;transform-box:fill-box}
+       .gp-dot{animation:gp-blink 1.8s ease-in-out infinite}
+       @keyframes gp-sweep{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}
+       @keyframes gp-thump{0%,100%{transform:scale(1)}15%{transform:scale(1.32)}30%{transform:scale(1)}}
+       @keyframes gp-blink{50%{opacity:.25}}@media (prefers-reduced-motion:reduce){*{animation:none !important}}</style>
+  <defs>
+    <linearGradient id="gp-tg" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#8B5CF6"/>
+        <stop offset="0.5" stop-color="#2FD4EE"/>
+        <stop offset="1" stop-color="#F26DB8"/>
+      </linearGradient>
+    <filter id="gp-glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="2.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="gp-grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="rgba(139,92,246,0.10)" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="829" height="149"
+        rx="12" fill="#0B0819" stroke="rgba(139,92,246,0.10)"/>
+  <rect x="16" y="38" width="798" height="72" fill="url(#gp-grid)" opacity="0.9"/>
+
+  <text x="26" y="26" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="13"
+        font-weight="600" fill="#EDEBF6">@ShaneLiu04</text>
+
+  <rect x="737.8" y="12" width="66.2" height="19"
+        rx="9.5" fill="none" stroke="#8B5CF6" opacity="0.85"/>
+  <text x="770.9" y="25" text-anchor="middle"
+        font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="10" font-weight="600"
+        fill="#8B5CF6" letter-spacing="1">RADIANT</text>
+  
+  <path d="M26 74 h17.3 q3 -2.9 6 0 l2 3 l4 -36 l4 44 l2 -8 q3 -6.8 6 0 h14.2 h14.2 q3 -2.9 6 0 l2 3 l4 -12.4 l4 20.4 l2 -8 q3 -6.8 6 0 h17.3 h17.3 q3 -2.9 6 0 l2 3 l4 -12.4 l4 20.4 l2 -8 q3 -6.8 6 0 h14.2 h14.2 q3 -2.9 6 0 l2 3 l4 -18.9 l4 26.9 l2 -8 q3 -6.8 6 0 h17.3 h17.3 q3 -2.9 6 0 l2 3 l4 -18.9 l4 26.9 l2 -8 q3 -6.8 6 0 h14.2 h14.2 q3 -2.9 6 0 l2 3 l4 -14.6 l4 22.6 l2 -8 q3 -6.8 6 0 h17.3 h17.3 q3 -2.9 6 0 l2 3 l4 -10.3 l4 18.3 l2 -8 q3 -6.8 6 0 h14.2 h14.2 q3 -2.9 6 0 l2 3 l4 -10.3 l4 18.3 l2 -8 q3 -6.8 6 0 h17.3 h17.3 q3 -2.9 6 0 l2 3 l4 -8.1 l4 16.1 l2 -8 q3 -6.8 6 0 h14.2 h14.2 q3 -2.9 6 0 l2 3 l4 -10.3 l4 18.3 l2 -8 q3 -6.8 6 0 h17.3 h17.3 q3 -2.9 6 0 l2 3 l4 -12.4 l4 20.4 l2 -8 q3 -6.8 6 0 h14.2 h14.2 q3 -2.9 6 0 l2 3 l4 -14.6 l4 22.6 l2 -8 q3 -6.8 6 0 h17.3 h17.3 q3 -2.9 6 0 l2 3 l4 -16.7 l4 24.7 l2 -8 q3 -6.8 6 0 h14.2 h14.2 q3 -2.9 6 0 l2 3 l4 -10.3 l4 18.3 l2 -8 q3 -6.8 6 0 h17.3" fill="none" stroke="url(#gp-tg)" stroke-width="1.6" opacity="0.22"/>
+       <path class="gp-sweep" d="M26 74 h17.3 q3 -2.9 6 0 l2 3 l4 -36 l4 44 l2 -8 q3 -6.8 6 0 h14.2 h14.2 q3 -2.9 6 0 l2 3 l4 -12.4 l4 20.4 l2 -8 q3 -6.8 6 0 h17.3 h17.3 q3 -2.9 6 0 l2 3 l4 -12.4 l4 20.4 l2 -8 q3 -6.8 6 0 h14.2 h14.2 q3 -2.9 6 0 l2 3 l4 -18.9 l4 26.9 l2 -8 q3 -6.8 6 0 h17.3 h17.3 q3 -2.9 6 0 l2 3 l4 -18.9 l4 26.9 l2 -8 q3 -6.8 6 0 h14.2 h14.2 q3 -2.9 6 0 l2 3 l4 -14.6 l4 22.6 l2 -8 q3 -6.8 6 0 h17.3 h17.3 q3 -2.9 6 0 l2 3 l4 -10.3 l4 18.3 l2 -8 q3 -6.8 6 0 h14.2 h14.2 q3 -2.9 6 0 l2 3 l4 -10.3 l4 18.3 l2 -8 q3 -6.8 6 0 h17.3 h17.3 q3 -2.9 6 0 l2 3 l4 -8.1 l4 16.1 l2 -8 q3 -6.8 6 0 h14.2 h14.2 q3 -2.9 6 0 l2 3 l4 -10.3 l4 18.3 l2 -8 q3 -6.8 6 0 h17.3 h17.3 q3 -2.9 6 0 l2 3 l4 -12.4 l4 20.4 l2 -8 q3 -6.8 6 0 h14.2 h14.2 q3 -2.9 6 0 l2 3 l4 -14.6 l4 22.6 l2 -8 q3 -6.8 6 0 h17.3 h17.3 q3 -2.9 6 0 l2 3 l4 -16.7 l4 24.7 l2 -8 q3 -6.8 6 0 h14.2 h14.2 q3 -2.9 6 0 l2 3 l4 -10.3 l4 18.3 l2 -8 q3 -6.8 6 0 h17.3" pathLength="1000" fill="none"
+             stroke="url(#gp-tg)" stroke-width="2.2" stroke-linecap="round"
+             stroke-dasharray="140 860" filter="url(#gp-glow)"/>
+  
+  <text x="26" y="54" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace"
+            font-size="10" font-weight="700" letter-spacing="1"
+            fill="#8B5CF6" opacity="0.75">⚜ IRON RHYTHM</text>
+  <text class="gp-heart" x="26" y="130" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace"
+        font-size="16" fill="#8B5CF6">♥</text>
+  <text x="46" y="130" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace"
+        font-size="22" font-weight="700" fill="#EDEBF6">93<tspan
+        font-size="10" font-weight="400" fill="#928DAD" dx="4">bpm</tspan></text>
+  <text x="150" y="128" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace"
+           font-size="10.5" fill="#928DAD">⚡ 38d streak  ·  PY+  ·  2654 beats/yr  ·  ★ 366</text>
+  <text x="804" y="128" text-anchor="end"
+        font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="10.5" fill="#8B5CF6"
+        class="gp-dot">● beating now</text>
+  
+  
+</svg>
