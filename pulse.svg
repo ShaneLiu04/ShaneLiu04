@@ -50,7 +50,7 @@
         font-size="22" font-weight="700" fill="#EDEBF6">78<tspan
         font-size="10" font-weight="400" fill="#928DAD" dx="4">bpm</tspan></text>
   <text x="150" y="128" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace"
-           font-size="10.5" fill="#928DAD">⚡ 41d streak  ·  PY+  ·  2657 beats/yr  ·  ★ 373</text>
+           font-size="10.5" fill="#928DAD">⚡ 41d streak  ·  PY+  ·  2657 beats/yr  ·  ★ 374</text>
   <text x="804" y="128" text-anchor="end"
         font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="10.5" fill="#8B5CF6"
         >● beat yesterday</text>
