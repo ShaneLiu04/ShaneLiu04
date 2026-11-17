@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="./pulse.svg?v=25" alt="GitHub Pulse — contribution EKG" />
+  <img width="100%" src="./pulse.svg?v=26" alt="GitHub Pulse — contribution EKG" />
 </p>
 
 <p align="center">
