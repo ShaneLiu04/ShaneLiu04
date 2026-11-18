@@ -1,12 +1,12 @@
 <h3 align="center"><strong>聚焦端侧模型、AI Infra 与 Agent 系统架构，为物理智能体筑牢底座，构建万物互联的智能世界</strong></h3>
 
 <p align="center">
-  <img width="49%" src="./assets/top-langs.svg" alt="Top languages" />
-  <img width="49%" src="./assets/streak-stats.svg" alt="GitHub streak" />
+  <img width="100%" src="./pulse.svg" alt="GitHub Pulse — contribution EKG" />
 </p>
 
 <p align="center">
-  <img width="100%" src="./pulse.svg" alt="GitHub Pulse — contribution EKG" />
+  <img width="49%" src="./assets/top-langs.svg" alt="Top languages" />
+  <img width="49%" src="./assets/streak-stats.svg" alt="GitHub streak" />
 </p>
 
 <p align="center">
