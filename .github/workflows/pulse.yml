@@ -24,21 +24,17 @@ jobs:
           params: "w=full"
 
       - name: Point README at the local card
-        env:
-          PULSE_VERSION: ${{ github.run_number }}
         run: |
           python3 - <<'PY'
-          import os, re
+          import re
           from pathlib import Path
           p = Path('README.md')
           s = p.read_text(encoding='utf-8')
-          v = os.environ['PULSE_VERSION']
           s = re.sub(
               r'<img src="https://github-pulse-topaz\.vercel\.app/u/ShaneLiu04[^"]*"[^>]*/>',
-              f'<img width="100%" src="./pulse.svg?v={v}" alt="GitHub Pulse — contribution EKG" />',
+              '<img width="100%" src="./pulse.svg" alt="GitHub Pulse — contribution EKG" />',
               s,
           )
-          s = re.sub(r'\./pulse\.svg\?v=\d+', f'./pulse.svg?v={v}', s)
           p.write_text(s, encoding='utf-8')
           PY
 
