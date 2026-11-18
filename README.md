@@ -1,4 +1,4 @@
-> ### **聚焦端侧模型、AI Infra 与 Agent 系统架构，为物理智能体筑牢底座，构建万物互联的智能世界**
+<h3 align="center"><strong>聚焦端侧模型、AI Infra 与 Agent 系统架构，为物理智能体筑牢底座，构建万物互联的智能世界</strong></h3>
 
 <p align="center">
   <img width="49%" src="./assets/top-langs.svg" alt="Top languages" />
